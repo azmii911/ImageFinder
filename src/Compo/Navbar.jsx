@@ -70,7 +70,7 @@ React.useEffect(()=>{
           <Grid>
         <Box style={{marginTop:'40px'}}>
             <Typography variant="h4" style={{textAlign:'center',fontWeight:'600',color:'#3f51b5'}}>
-            Stunning Free Images & Royalty Free Stock
+            Stunning Free Images & Royalty Free Stock Images
           </Typography>
           <Typography variant="body2" style={{textAlign:'center',marginTop:'15px'}}>
           Over 1.8 million+ high quality stock images, videos and music shared by our talented community.
